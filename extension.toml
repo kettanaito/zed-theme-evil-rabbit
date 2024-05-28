@@ -1,0 +1,7 @@
+id = "evil-rabbit-theme"
+name = "Evil Rabbit Theme"
+description = "A port of the Evil Rabbit theme."
+version = "0.0.1"
+schema_version = 1
+authors = ["Artem Zakharchenko"]
+repository = "https://github.com/kettanaito/zed-theme-evil-rabbit"
