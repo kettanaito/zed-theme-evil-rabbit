@@ -1,3 +1,5 @@
 # Evil Rabbit Theme for Zed
 
-I have no idea how to publish these. If you have, please open a pull request. Thank you.
+A color theme for Zed inspired by the [Evil Rabbit](https://x.com/evilrabbit_) theme.
+
+![Evil Rabbit Color Theme Preview](/evil-rabbit-theme.png)
